@@ -2,7 +2,8 @@
 layout: post
 title: Blog credit
 date: 2025-03-20
-categories: ["blog"]
+categories: [blog]
+tags: [blog]
 ---
 
 ### jekyll theme
